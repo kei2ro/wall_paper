@@ -1,12 +1,13 @@
-.box{
-width:90%;
-height:100px;
+div.box{
+width:1000px;
+height:500px;
 margin-right:auto;
 margin-left:auto;
+background-color:gray;
 }
 
 .box_menu{
-width:90%;
+width:1000px;
 height:200px;
 margin-right:auto;
 margin-left:auto;
@@ -14,7 +15,7 @@ margin-left:auto;
 
 .box_menu1{ 
 width:200px;
-height:90%;
+height:200px;
 background-color:skyblue;
 float:left;
 margin-right:20px;
@@ -23,7 +24,7 @@ margin-bottom:20px;
 
 .box_menu2{ 
 width:200px;
-height:90%;
+height:200px;
 background-color:skyblue;
 float:left;
 margin-right:20px;
@@ -32,7 +33,7 @@ margin-bottom:20px;
 
 .box_menu3{ 
 width:200px;
-height:90%;
+height:200px;
 background-color:skyblue;
 float:left;
 }
